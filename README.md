@@ -12,10 +12,10 @@ There is a considerable amount of data regarding employees’ roles within an or
 
 Following actions should be performed:
 --------------------------------------
-Understand the type of data.
-Identify the output variable.
-Identify the factors which affect the output variable.
-Check if there are any biases in your dataset.
-Perform train test split.
-Predict the accuracy using classification models.
-Check and compare the accuracy of the different models.
+1.  Understand the type of data.
+2. Identify the output variable.
+3. Identify the factors which affect the output variable.
+4. Check if there are any biases in your dataset.
+5. Perform train test split.
+6. Predict the accuracy using classification models.
+7. Check and compare the accuracy of the different models.
